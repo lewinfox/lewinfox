@@ -8,9 +8,10 @@ things over the years.
 
 I maintain some open source projects:
 
-* 🍦 [icecream](https://lewinfox.github.io/icecream), an R package which makes print debugging a little sweeter.
-* 🛸 [levitate](https://lewinfox.github.io/levitate), a fuzzy string comparison library for R.
-* 🕸️ [foodwebr](https://lewinfox.github.io/foodwebr), an R package for drawing function dependency graphs.
+* 🍦 [icecream](https://lewinfox.com/icecream), an R package which makes print debugging a little sweeter.
+* 🛸 [levitate](https://lewinfox.com/levitate), a fuzzy string comparison library for R.
+* 🕸️ [foodwebr](https://lewinfox.com/foodwebr), an R package for drawing function dependency graphs.
+* &#955 [lambdar](https://lewinfox.com/lambdar), tools for running R on AWS Lambda.
   
 Please try them out! If you want to contribute code or feedback that would be awesome ⭐
 
