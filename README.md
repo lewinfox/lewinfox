@@ -18,8 +18,6 @@ Please try them out! If you want to contribute code or feedback that would be aw
 
 ### Stuff I'm learning
 
-- 🌱 I’m currently learning [`dbt`](https://github.com/dbt-labs/dbt) and Snowflake for my work with 
-  [New Zealand Post](https://github.com/nzpost)!
 - 🤔 I’m looking for help with [R language internals](https://www.github.com/lewinfox/foodwebr/issues/).
 
 
